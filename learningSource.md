@@ -13,3 +13,7 @@ https://community.n8n.io/t/use-open-webui-with-your-n8n-ai-agents-voice-chat-inc
 # docker
 ### Docker 10分钟快速入门
 https://www.youtube.com/watch?v=mPquwpxyUQU
+### host n8n(docker文件)  
+https://docs.n8n.io/hosting/  
+以下是docker-compose repo  
+https://github.com/n8n-io/n8n-hosting/tree/main/docker-compose/withPostgres
