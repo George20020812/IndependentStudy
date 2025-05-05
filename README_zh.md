@@ -1,13 +1,12 @@
-# IndependentStudy
-後端backend: n8n  
-前端frontend: open webui  
-環境env: docker  
-# 簡介
-使用後端n8n自動建立RAG模型並且使用MCP協議提升未來拓展功能能力，使用者透過open webui介面操作詢問ai資料庫內資料  
-# 文件結構:
-
+# 專題
+後端: n8n  
+前端: open webui  
+環境: docker  
+# 簡介  
+使用後端n8n自動建立RAG模型並且使用MCP提升未來拓展功能能力，使用者透過open webui介面操作詢問ai資料庫內資料  
+# 目錄結構:  
 ```
-# Project Structure
+# Project Structure(以下是範例)
 
 ## root根目錄(IndependentStudy)
 - README.md
@@ -24,13 +23,4 @@
 - models/
     - user.py
     - product.py
-```
-# 快速開始
-使用git下載
-```
-git clone https://github.com/George20020812/IndependentStudy
-```
-下載需要的包
-```
-pip install -r requirements.txt
 ```
